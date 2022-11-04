@@ -1,0 +1,56 @@
+{
+  "workouts": [
+    {
+      "title": "Swimming",
+      "cb": "200",
+      "description": "Good Health",
+      "id": 1,
+      "EndTime": "2022-11-04T12:02:15.137Z",
+      "TotalCalories": 44.71333333333333,
+      "startTime": "2022-11-04T12:02:13.435Z"
+    },
+    {
+      "title": "Roaming",
+      "cb": "20",
+      "description": "Bad",
+      "id": 2,
+      "startTime": "2022-11-04T10:16:46.388Z",
+      "EndTime": "2022-11-04T10:16:49.144Z",
+      "TotalCalories": 0.9186666666666666
+    },
+    {
+      "title": "GamePlay",
+      "cb": "10",
+      "description": "Mad",
+      "id": 3,
+      "startTime": "2022-11-04T10:12:17.111Z",
+      "EndTime": "2022-11-04T10:14:06.531Z",
+      "TotalCalories": 18.236666666666668
+    },
+    {
+      "title": "Running",
+      "cb": "50",
+      "description": "Goood",
+      "id": 4,
+      "startTime": "2022-11-04T12:02:38.615Z",
+      "EndTime": "2022-11-04T12:02:42.884Z",
+      "TotalCalories": 3.5575
+    },
+    {
+      "title": "Riding",
+      "cb": "60",
+      "description": "Good",
+      "id": 5,
+      "startTime": "2022-11-04T12:02:46.491Z",
+      "EndTime": "2022-11-04T12:02:50.856Z",
+      "TotalCalories": 4.365
+    },
+    {
+      "title": "Walking",
+      "cb": "100",
+      "description": "Super",
+      "id": 6,
+      "startTime": "2022-11-04T12:03:09.390Z"
+    }
+  ]
+}
